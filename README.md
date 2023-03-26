@@ -5,7 +5,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YarBor&theme=dark&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j)](https://github.com/YarBor) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarBor&count_private=true&theme=transparent)](https://github.com/YarBor)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarBor&theme=transparent)](https://github.com/YarBor)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarBor)](https://github.com/YarBor)
 
