@@ -1,9 +1,8 @@
 - 👋 Hi, I’m YarBor
 -  learning Linux/C++/OS
-- find me at **yarbor@foxmail.com**
+- find me at **yarbor@foxmail.com** OR **yennyart@outlook.com**
 
 <!--
-
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YarBor&theme=dark&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j)](https://github.com/YarBor) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarBor&theme=transparent)](https://github.com/YarBor)
 -->
