@@ -1,5 +1,4 @@
-- 👋 Hi, I’m YarBor
--  learning Linux/C++/OS
+
 - find me at **yarbor@foxmail.com** OR **yennyart@outlook.com**
 
 <!--
