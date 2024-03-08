@@ -1,5 +1,5 @@
 
-🤔 Find me at **yarbor.ww@gmail.com** OR **yennyart@outlook.com**
+🤔 Find me at **yarbor.ww@gmail.com**
 
 <!--
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YarBor&theme=dark&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j)](https://github.com/YarBor) 
@@ -9,10 +9,11 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarBor)](https://github.com/YarBor)
 
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarBor)](https://github.com/YarBor)
+
 **YarBor/YarBor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
