@@ -1,9 +1,14 @@
+Welcome, my friend, this is yarbor's page. 
 
-🤔 Find me at **yarbor.ww@gmail.com**
+I’m currently learning Distributed-Systems / Service-governance / microservices / linux-OS, programing on C/C--/Golang :)
+
+Welcome any communication about the above content,
+Contact me at **yarbor.ww@gmail.com** 
+
+<!--
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YarBor&theme=dark&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j)](https://github.com/YarBor) 
 
-<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarBor&theme=transparent)](https://github.com/YarBor)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarBor)](https://github.com/YarBor)
